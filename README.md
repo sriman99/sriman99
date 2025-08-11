@@ -1,6 +1,6 @@
 # Hi there, I'm Pakala Sriman Reddy! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Software+Engineer+%26+AI+Enthusiast;Building+Scalable+Microservices;15%2B+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Software+Engineer+%26+AI+Enthusiast)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/sriman99?label=Follow&style=social)](https://github.com/sriman99)
 [![GitHub stars](https://img.shields.io/github/stars/sriman99?label=Stars&style=social)](https://github.com/sriman99)
